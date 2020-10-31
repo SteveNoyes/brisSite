@@ -1,0 +1,19 @@
+{
+  "name": "itsabrissite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveNoyes/brisSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveNoyes/brisSite/issues"
+  },
+  "homepage": "https://github.com/SteveNoyes/brisSite#readme"
+}
